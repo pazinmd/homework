@@ -77,13 +77,13 @@ font-style: italic;
   width: 100%;
   
   height: 483px;
-  background-image: url(images/second.PNG);
+  background-image: url("images/second.PNG");
   display: flex;
   margin: auto;
 }
 .block-text-photo  {
   height: 403px;
-  background-image: url(images/imageback.PNG);
+  background-image: url("images/imageback.PNG");
   display: flex;
   margin: auto;
   box-sizing: border-box;
